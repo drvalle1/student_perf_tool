@@ -1,0 +1,10 @@
+name: student_perf_tool
+title:
+username:
+account: denisvalle
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 311200
+bundleId: 1304483
+url: https://denisvalle.shinyapps.io/student_perf_tool/
+when: 1522952369.92772
